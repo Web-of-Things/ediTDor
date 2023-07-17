@@ -1,3 +1,5 @@
+# This project has moved to: https://github.com/eclipse/editdor
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
